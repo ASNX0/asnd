@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151173470046",
+    "firebase_url": "https://praking-e62a6-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "praking-e62a6",
+    "storage_bucket": "praking-e62a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151173470046:android:bd41457acad0ecf37821cf",
+        "android_client_info": {
+          "package_name": "com.example.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151173470046-iaisft8suekk66b066d6nc829cau1m34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrD4aVdZtq6HNbS8oC3HJWd_cJ4zlKuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151173470046-iaisft8suekk66b066d6nc829cau1m34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
